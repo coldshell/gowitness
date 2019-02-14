@@ -10,10 +10,10 @@ import (
 	"text/template"
 
 	"github.com/corona10/goimagehash"
-	gwtmpl "github.com/sensepost/gowitness/template"
+	gwtmpl "github.com/coldshell/gowitness/template"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/sensepost/gowitness/storage"
+	"github.com/coldshell/gowitness/storage"
 	"github.com/spf13/cobra"
 	"github.com/tidwall/buntdb"
 )

@@ -13,7 +13,7 @@ import (
 
 	"github.com/reconquest/barely"
 	"github.com/remeh/sizedwaitgroup" // <3
-	"github.com/sensepost/gowitness/utils"
+	"github.com/coldshell/gowitness/utils"
 	"github.com/spf13/cobra"
 )
 

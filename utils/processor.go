@@ -7,11 +7,11 @@ import (
 	"strings"
 	"time"
 
-	chrm "github.com/sensepost/gowitness/chrome"
+	chrm "github.com/coldshell/gowitness/chrome"
 	log "github.com/sirupsen/logrus"
 
 	"github.com/parnurzeal/gorequest"
-	"github.com/sensepost/gowitness/storage"
+	"github.com/coldshell/gowitness/storage"
 )
 
 const (

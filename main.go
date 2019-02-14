@@ -1,6 +1,6 @@
 package main
 
-import "github.com/sensepost/gowitness/cmd"
+import "github.com/coldshell/gowitness/cmd"
 
 func main() {
 	cmd.Execute()
